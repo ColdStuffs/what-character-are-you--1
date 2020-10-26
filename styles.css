@@ -1,0 +1,17 @@
+button {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    max-width: 10%;
+    height: auto;
+    display: none;
+}
+
+/*same stupid thing*/
